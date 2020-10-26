@@ -1,0 +1,27 @@
+/*
+ * require_self
+ */
+
+.ola-fish:before {
+  content: "><>";
+}
+
+.ola-big-fish:before {
+  content: "><(((('>";
+}
+
+.ola-koala:before {
+  content: "@( * O * )@";
+}
+
+.ola-rose:before {
+  content: "--------{---(@";
+}
+
+.ola-pig:before {
+  content: "^(*(oo)*)^";
+}
+
+.ola-cat:before {
+  content: "=^..^=";
+}
